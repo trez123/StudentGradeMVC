@@ -1,0 +1,90 @@
+﻿@model StudentGradeMVC.Models.ModelView.StudentVM
+@{
+    var header = "Student Registration Form";
+    //var errs = ViewData.ModelState.Where(n => n.Value.Errors.Count > 0).ToList();
+}
+
+
+<div class="col-md-7">
+    <form method="post" asp-action="Upsert" enctype="multipart/form-data">
+        @if(Model.Student.Id != 0)
+        {
+            <input asp-for="Student.Id" hidden class="form-control" />
+            header = "Edit Student Information";
+        }
+        <h1>@header</h1>
+        <div>
+            @Html.ValidationSummary()
+        </div>
+        <div class="form-group">
+            <label asp-for="Student.Name" class="control-label"></label>
+            <input asp-for="Student.Name" class="form-control" />
+            <span asp-validation-for="Student.Name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Student.DOB" class="control-label"></label>
+            <input asp-for="Student.DOB" class="form-control" />
+        </div>
+        <div class="row">
+            <div class="form-group col">
+                <label asp-for="Student.Addressln1" class="control-label"></label>
+                <input asp-for="Student.Addressln1" class="form-control" />
+                <span asp-validation-for="Student.Addressln1" class="text-danger"></span>
+            </div>
+            <div class="form-group col">
+                <label asp-for="Student.Addressln2" class="control-label"></label>
+                <input asp-for="Student.Addressln2" class="form-control" />
+                <span asp-validation-for="Student.Addressln2" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Student.Phone" class="control-label"></label>
+            <input asp-for="Student.Phone" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Student.Email" class="control-label"></label>
+            <input asp-for="Student.Email" class="form-control" />
+            <span asp-validation-for="Student.Email" class="text-danger"></span>
+        </div>
+        <div class="row">
+            <div class="form-group col">
+                <label asp-for="Student.IGTag" class="control-label"></label>
+                <input asp-for="Student.IGTag" class="form-control" />
+            </div>
+            <div class="form-group col">
+                <label asp-for="Student.TikTokTag" class="control-label"></label>
+                <input asp-for="Student.TikTokTag" class="form-control" />
+            </div>
+        </div>
+        <div class="form-group col">
+            <label asp-for="Student.StudentImage" class="control-label"></label>
+            <input type="file" multiple name="files" id="studentImage" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Student.CourseID" class="control-label"></label>
+            <select asp-for="Student.CourseID" class="form-control" asp-items="@Model.CourseSelectList">
+                <option selected disabled>--Select a course--</option>
+            </select>
+        </div>
+        <div class="form-group">
+            @if(Model.Student.Id == 0)
+            {
+                <input type="submit" value="Save Changes" class="btn btn-outline-success" />
+            }else{
+                <input type="submit" value="Update Changes" class="btn btn-info" />
+
+            }
+        </div>
+    </form>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        // Html.RenderPartial("_ValidationScriptsPartial");
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

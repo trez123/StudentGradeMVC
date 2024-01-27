@@ -1,0 +1,451 @@
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/appsettings.json
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/StudentGradeMVC.staticwebassets.runtime.json
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/StudentGradeMVC.exe
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/StudentGradeMVC.deps.json
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/StudentGradeMVC.runtimeconfig.json
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/StudentGradeMVC.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/StudentGradeMVC.pdb
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Azure.Core.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Azure.Identity.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Humanizer.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/System.CodeDom.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.csproj.AssemblyReference.cache
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.AssemblyInfoInputs.cache
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.AssemblyInfo.cs
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.csproj.CoreCompileInputs.cache
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.RazorAssemblyInfo.cache
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.RazorAssemblyInfo.cs
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/staticwebassets/msbuild.StudentGradeMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/staticwebassets/msbuild.build.StudentGradeMVC.props
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.StudentGradeMVC.props
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.StudentGradeMVC.props
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/scopedcss/bundle/StudentGradeMVC.styles.css
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/scopedcss/projectbundle/StudentGradeMVC.bundle.scp.css
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.csproj.CopyComplete
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/refint/StudentGradeMVC.dll
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.pdb
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.genruntimeconfig.cache
+C:/Users/Baxte/OneDrive/Desktop/Web Dev 2022/StudentGradeMVC/obj/Debug/net6.0/ref/StudentGradeMVC.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/appsettings.Development.json
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/appsettings.json
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/StudentGradeMVC.staticwebassets.runtime.json
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/StudentGradeMVC.exe
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/StudentGradeMVC.deps.json
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/StudentGradeMVC.runtimeconfig.json
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/StudentGradeMVC.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/StudentGradeMVC.pdb
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Azure.Core.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Azure.Identity.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Humanizer.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/System.CodeDom.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/System.Text.Json.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Projects/StudentGradeMVC/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.csproj.AssemblyReference.cache
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.AssemblyInfoInputs.cache
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.AssemblyInfo.cs
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.csproj.CoreCompileInputs.cache
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.MvcApplicationPartsAssemblyInfo.cache
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.RazorAssemblyInfo.cache
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.RazorAssemblyInfo.cs
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/staticwebassets/msbuild.StudentGradeMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/staticwebassets/msbuild.build.StudentGradeMVC.props
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.StudentGradeMVC.props
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.StudentGradeMVC.props
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/staticwebassets.build.json
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/staticwebassets.development.json
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/scopedcss/bundle/StudentGradeMVC.styles.css
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/scopedcss/projectbundle/StudentGradeMVC.bundle.scp.css
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.csproj.CopyComplete
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.dll
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/refint/StudentGradeMVC.dll
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.pdb
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.genruntimeconfig.cache
+C:/Projects/StudentGradeMVC/obj/Debug/net6.0/ref/StudentGradeMVC.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/appsettings.Development.json
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/appsettings.json
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/StudentGradeMVC.staticwebassets.runtime.json
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/StudentGradeMVC
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/StudentGradeMVC.deps.json
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/StudentGradeMVC.runtimeconfig.json
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/StudentGradeMVC.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/StudentGradeMVC.pdb
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Humanizer.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/MessagePack.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/MessagePack.Annotations.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.Google.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Build.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Build.Framework.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Build.Tasks.Core.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Build.Utilities.Core.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/NuGet.Common.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/NuGet.Configuration.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/NuGet.LibraryModel.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/NuGet.Packaging.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/NuGet.ProjectModel.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/NuGet.Protocol.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/NuGet.Versioning.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/System.CodeDom.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/System.Composition.Convention.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/System.Composition.Hosting.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/System.Composition.Runtime.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/System.Composition.TypedParts.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/System.Resources.Extensions.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/runtimes/win-arm/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/runtimes/win-arm64/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.csproj.AssemblyReference.cache
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.AssemblyInfoInputs.cache
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.AssemblyInfo.cs
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.csproj.CoreCompileInputs.cache
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.MvcApplicationPartsAssemblyInfo.cs
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.MvcApplicationPartsAssemblyInfo.cache
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.RazorAssemblyInfo.cache
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.RazorAssemblyInfo.cs
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/staticwebassets/msbuild.StudentGradeMVC.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/staticwebassets/msbuild.build.StudentGradeMVC.props
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.StudentGradeMVC.props
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.StudentGradeMVC.props
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/staticwebassets.build.json
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/staticwebassets.development.json
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/scopedcss/bundle/StudentGradeMVC.styles.css
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/scopedcss/projectbundle/StudentGradeMVC.bundle.scp.css
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.csproj.CopyComplete
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.dll
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/refint/StudentGradeMVC.dll
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.pdb
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/StudentGradeMVC.genruntimeconfig.cache
+/Users/silascoley/Documents/StudentGradeMVC/obj/Debug/net6.0/ref/StudentGradeMVC.dll
+/Users/silascoley/Documents/StudentGradeMVC/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.Facebook.dll
